@@ -1,4 +1,11 @@
-# Intel-One
+# brand hunter
+
+1.增加官网搜索
+2.增加app store搜索
+3.增加社媒账号搜索
+国内
+weixin 公众号
+国外
 
 ## Get Started
 
