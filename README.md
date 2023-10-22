@@ -13,6 +13,18 @@ weixin 公众号
 https://github.com/wanghaisheng/brand-contact-Email-collector
 
 
+https://github.com/wanghaisheng/offer-collecting-scripts
+
+https://github.com/wanghaisheng/brand-facebook-ads-library
+
+
+https://github.com/wanghaisheng/auto-submit-urls-to-SEO
+
+
+
+https://github.com/wanghaisheng/Tiktok-Shop-Playwright-Crawl
+
+
 ## Get Started
 
 ### Welcome Screen:
