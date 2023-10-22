@@ -1,4 +1,5 @@
-# brand hunter
+# brand genious
+
 
 1.增加官网搜索
 2.增加app store搜索
@@ -6,6 +7,11 @@
 国内
 weixin 公众号
 国外
+
+
+
+https://github.com/wanghaisheng/brand-contact-Email-collector
+
 
 ## Get Started
 
